@@ -1,10 +1,8 @@
 Set up instruction 
 
-1. Place all three data sets:
+1. Make sure all three data sets:
  
-'DIC-C2DH-HeLa', 'Fluo-N2DL-HeLa', 'PhC-C2DL-PSC' 
-
-into the data folder.
+'DIC-C2DH-HeLa', 'Fluo-N2DL-HeLa', 'PhC-C2DL-PSC'  in the data folder.
 
 
 2. Download the first U-net pertained model from website address:
