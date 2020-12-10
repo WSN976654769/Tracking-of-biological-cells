@@ -15,9 +15,13 @@ Set up instruction
 3. Running environment
 
    openCv 3.4.2, 
+   
    tensorflow 2.3.0, 
+   
    numpy,  
+   
    skimage, 
+   
    scipy.
 
 4. Run 'run_method.py' to start program.
