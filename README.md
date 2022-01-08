@@ -1,3 +1,8 @@
+**Tracking of biological cells in time-lapse microscopy images**
+
+Using different ways to automate the detection and tracking of the cells, as well as to perform subsequent
+quantitative analysis of cell motion. The task of computer vision includes image preprocessing, feature extraction, classification, motion detection, tracking and recognition. Also used the popular method “U-net” as a neural network model to predict cell movement.
+
 Set up instruction 
 
 1. Make sure all three data sets:
